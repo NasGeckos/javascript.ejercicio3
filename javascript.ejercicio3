@@ -1,0 +1,25 @@
+// Ejercicio 03
+
+let nombre = "Nelson";
+let apellido = "Sander";
+
+let estudiante = nombre + " " + apellido;
+
+console.log(estudiante)
+
+let estudianteMayus = estudiante.toUpperCase()
+console.log(estudianteMayus)
+
+let estudianteMinus = estudiante.toLowerCase()
+console.log(estudianteMinus)
+
+let num_letras = estudiante.length
+
+console.log(num_letras)
+
+console.log(nombre[0])
+console.log(apellido[0])
+
+console.log(nombre+apellido)
+console.log()
+
